@@ -20,7 +20,7 @@
 // Main Function
 int main()
 {
-     printf("Greetings from RuggedBOARD Team \n");
+     printf("Greetings from Ashfaqulla Sharif Team \n");
      return 0;
 }
 
